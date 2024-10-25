@@ -1,1 +1,3 @@
-Marketplace Contract Address = 0x8AbB9F97c149d04C3Ea25F3d462754F94f4cf4CC
+# Marketplace smart contract
+
+# Deployed contract `0x32752C66CC5A7e32418c9c5487356ffAe69c6F5c` ([View on baseScan](https://sepolia.basescan.org/address/0x32752C66CC5A7e32418c9c5487356ffAe69c6F5c))
