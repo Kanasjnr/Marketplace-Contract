@@ -1,6 +1,6 @@
 import { buildModule } from "@nomicfoundation/hardhat-ignition/modules";
 
-const MarkretPlaceModule = buildModule("ProposalVoteModule", (m) => {
+const MarkretPlaceModule = buildModule("MarkretPlaceModule", (m) => {
   const Marketplace = m.contract("Marketplace");
 
   return { Marketplace };
